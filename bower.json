@@ -1,0 +1,23 @@
+{
+  "name": "wednesday-breakpoints",
+  "main": "breakpoints.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/wednesdaylondon/breakpoints",
+  "authors": [
+    "James Gardiner <jamesg@wednesdayagency.com>"
+  ],
+  "description": "Updated version of jquery.breakpoints that doesn't trigger the breakpoint events as soon as they are bound.",
+  "keywords": [
+    "breakpoints",
+    "responsive",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
