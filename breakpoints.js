@@ -20,7 +20,7 @@
   var interval = null;
   var initialised = false;
 
-  $.fn.initialise = function () {
+  $.fn.initialiseBreakpoints = function () {
     initialised = true;
   };
 
